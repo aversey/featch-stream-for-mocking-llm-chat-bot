@@ -1,5 +1,5 @@
 [
-  {"choices":[{"text":"{\"type\":\"message\",\"data\":{\"id\":\"0\",\"author\":{\"role\":\"user\"},\"created\":1729596833,\"content\":[{\"type\":\"text\",\"text\":\"Hi! Can you create a feature group from this file?\"},{\"type\":\"file\",\"path\":\"/Projects/av/LLMAssistant/Chats/88/mydata.csv\"}]}}"}]},
+  {"choices":[{"text":"{\"type\":\"message\",\"data\":{\"id\":1729596833000,\"author\":{\"role\":\"user\"},\"created\":1729596833000,\"content\":[{\"type\":\"text\",\"text\":\"Hi! Can you create a feature group from this file?\"},{\"type\":\"file\",\"path\":\"/Projects/av/LLMAssistant/Chats/88/mydata.csv\"}]}}"}]},
   {"choices":[{"text":"{\"type\":\"contentAppendix\",\"data\":{\"type\":\"title\",\"to\":\"Creating Feature Group from mydata.csv\"}}"}]},
   {"choices":[{"text":"{\"type\":\"contentAppendix\",\"data\":{\"type\":\"text\",\"text\":\"Certainly! \"}}"}]},
   {"choices":[{"text":"{\"type\":\"contentAppendix\",\"data\":{\"type\":\"step\",\"title\":\"Figuring out data layout of mydata.csv...\"}}"}]},
@@ -11,5 +11,5 @@
   {"choices":[{"text":"{\"type\":\"contentAppendix\",\"data\":{\"type\":\"text\",\"text\":\"**awesome** \"}}"}]},
   {"choices":[{"text":"{\"type\":\"contentAppendix\",\"data\":{\"type\":\"text\",\"text\":\"script*:\"}}"}]},
   {"choices":[{"text":"{\"type\":\"contentAppendix\",\"data\":{\"type\":\"file\",\"title\":\"Awesome script\",\"description\":\"This script is awesome!\",\"path\":\"/Projects/av/LLMAssistant/Chats/88/create_feature_group.py\"}}"}]},
-  {"choices":[{"text":"{\"type\":\"message\",\"data\":{\"id\":\"1\",\"author\":{\"role\":\"assistant\"},\"created\":1729596833,\"content\":[{\"type\":\"title\",\"from\":\"\",\"to\":\"Creating Feature Group from mydata.csv\"},{\"type\":\"text\",\"text\":\"Certainly! Here is *your **awesome** script*:\"},{\"type\":\"file\",\"title\":\"Awesome script\",\"description\":\"This script is awesome!\",\"path\":\"/Projects/av/LLMAssistant/Chats/88/create_feature_group.py\"}]}}"}]}
+  {"choices":[{"text":"{\"type\":\"message\",\"data\":{\"id\":1729596833000,\"author\":{\"role\":\"assistant\"},\"created\":1729596833000,\"content\":[{\"type\":\"title\",\"from\":\"\",\"to\":\"Creating Feature Group from mydata.csv\"},{\"type\":\"text\",\"text\":\"Certainly! Here is *your **awesome** script*:\"},{\"type\":\"file\",\"title\":\"Awesome script\",\"description\":\"This script is awesome!\",\"path\":\"/Projects/av/LLMAssistant/Chats/88/create_feature_group.py\"}]}}"}]}
 ]
